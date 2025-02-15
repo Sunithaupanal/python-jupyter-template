@@ -1,0 +1,17 @@
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   activities/1.1-basic-jupyter-notebook.ipynb
+#	modified:   activities/1.2-using-matplotlib.ipynb
+#	new file:   activities/HTML
+#	modified:   src/1-line-plot.ipynb
+#	modified:   src/2-bar-plot.ipynb
+#	modified:   src/3-scatter-plot.ipynb
+#	modified:   src/4-pie-chart.ipynb
+#	modified:   src/5-subplot.ipynb
+#	modified:   src/6-histogram.ipynb
+#
